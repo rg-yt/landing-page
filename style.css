@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+
+/* Color and Fonts */
+header{
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+body{
+    font-size: 18px;
+    
+}
+h1{
+    font-size: 24px;
+    color: #f9faf8;
+}
+h2{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+h3{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+h4{
+    font-weight: bold;
+}
+.quote{
+    font-size: 36px;
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-weight: lighter;
+}
+button{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 18px;
+}
