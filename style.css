@@ -12,6 +12,11 @@ header{
     font-size: 18px;
     color: #e5e7eb;
 }
+footer{
+    background-color: #1F2937;
+    text-align: center;
+    color: #e5e7eb;
+}
 body{
     font-size: 18px;
     font-family: roboto;
@@ -141,4 +146,11 @@ ul{
 }
 .blue-background button{
     border: 2px solid #e5e7eb;
+}
+
+/* Footer */
+
+footer{
+    padding: 25px;
+
 }
