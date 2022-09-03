@@ -112,3 +112,17 @@ ul{
     text-align: center;
     padding: 35px 0;
 }
+/* Section 3 */
+.quote{
+    padding: 80px 0;
+    text-align: left;
+    
+}
+.quote p {
+    max-width: 50%;
+    margin: auto;
+}
+.quote .bold{
+    text-align: right;
+    font-size: 24px;
+}
