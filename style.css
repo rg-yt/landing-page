@@ -72,6 +72,9 @@ button{
     justify-content: center;
     gap: 5px;
 }
+.call{
+    color: #e5e7eb;
+}
 /* Header / Hero*/
 .header{
     width: 80%;
@@ -125,4 +128,17 @@ ul{
 .quote .bold{
     text-align: right;
     font-size: 24px;
+}
+/* Section 4 */
+.blue-background{
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 60px;
+    margin: 70px 20%;
+    border-radius: 10px;
+}
+.blue-background button{
+    border: 2px solid #e5e7eb;
 }
